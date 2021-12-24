@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.492b66d7.chunk.css",
-    "main.js": "/static/js/main.5e81f707.chunk.js",
-    "main.js.map": "/static/js/main.5e81f707.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.4227b562.js",
-    "runtime-main.js.map": "/static/js/runtime-main.4227b562.js.map",
+    "main.css": "/static/css/main.9e4d37b6.chunk.css",
+    "main.js": "/static/js/main.2ef08229.chunk.js",
+    "main.js.map": "/static/js/main.2ef08229.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2a0e261d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2a0e261d.js.map",
     "static/css/2.7a426254.chunk.css": "/static/css/2.7a426254.chunk.css",
-    "static/js/2.0930db84.chunk.js": "/static/js/2.0930db84.chunk.js",
-    "static/js/2.0930db84.chunk.js.map": "/static/js/2.0930db84.chunk.js.map",
-    "static/js/3.9532ea6d.chunk.js": "/static/js/3.9532ea6d.chunk.js",
-    "static/js/3.9532ea6d.chunk.js.map": "/static/js/3.9532ea6d.chunk.js.map",
+    "static/js/2.19b0b701.chunk.js": "/static/js/2.19b0b701.chunk.js",
+    "static/js/2.19b0b701.chunk.js.map": "/static/js/2.19b0b701.chunk.js.map",
+    "static/js/3.de8f6dde.chunk.js": "/static/js/3.de8f6dde.chunk.js",
+    "static/js/3.de8f6dde.chunk.js.map": "/static/js/3.de8f6dde.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.7a426254.chunk.css.map": "/static/css/2.7a426254.chunk.css.map",
-    "static/css/main.492b66d7.chunk.css.map": "/static/css/main.492b66d7.chunk.css.map",
-    "static/js/2.0930db84.chunk.js.LICENSE.txt": "/static/js/2.0930db84.chunk.js.LICENSE.txt",
+    "static/css/main.9e4d37b6.chunk.css.map": "/static/css/main.9e4d37b6.chunk.css.map",
+    "static/js/2.19b0b701.chunk.js.LICENSE.txt": "/static/js/2.19b0b701.chunk.js.LICENSE.txt",
     "static/media/CV.cccec6a7.pdf": "/static/media/CV.cccec6a7.pdf",
     "static/media/theme.css": "/static/media/Inter-SemiBold.cca62d21.woff",
     "static/media/alfred.1d5a4186.jpg": "/static/media/alfred.1d5a4186.jpg",
@@ -28,10 +28,10 @@
     "static/media/team.afc53d4e.png": "/static/media/team.afc53d4e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4227b562.js",
+    "static/js/runtime-main.2a0e261d.js",
     "static/css/2.7a426254.chunk.css",
-    "static/js/2.0930db84.chunk.js",
-    "static/css/main.492b66d7.chunk.css",
-    "static/js/main.5e81f707.chunk.js"
+    "static/js/2.19b0b701.chunk.js",
+    "static/css/main.9e4d37b6.chunk.css",
+    "static/js/main.2ef08229.chunk.js"
   ]
 }
